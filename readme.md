@@ -2,6 +2,8 @@
 
 This repository contains code and data for the analysis and modeling of public transport data as part of a thesis project. The workflow is organized into several stages, from raw data cleaning to model-specific experiments.
 
+The data used is not provided by this project. It can be provided for free for academic research by [NDOV Loket](https://ndovloket.nl/).
+
 ## Project Structure
 
 ```
